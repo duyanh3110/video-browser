@@ -1,5 +1,8 @@
 # video-browser
 
+## Live demo
+[Link](https://duyanh3110.github.io/video-browser/).
+
 ## Project setup
 ```
 npm install
